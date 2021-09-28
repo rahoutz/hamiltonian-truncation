@@ -171,7 +171,7 @@ def basis_nmax(basis, n_max):
 #
 #
 # ###### A SINGLE RAISING/LOWERING OPERATOR ########################################################################
-# Note used in final version but demonstrative of combined operators
+# Not used in final version but demonstrative of combined operators
 def raising(l, sigma, basis):
     row = []
     col = []
