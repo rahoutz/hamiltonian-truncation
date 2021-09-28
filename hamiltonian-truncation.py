@@ -191,7 +191,7 @@ def raising(l, sigma, basis):
     return csr_matrix((data, (row, col)), shape=(length_basis, length_basis))
 
 
-# Note used in final version but demonstrative of combined operators
+# Not used in final version but demonstrative of combined operators
 def lowering(l, sigma, basis):
     row = []
     col = []
