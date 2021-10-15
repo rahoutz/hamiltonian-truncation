@@ -5,7 +5,8 @@ This python code can be used to quickly generate the truncated Hamiltonian for 2
 
 ## Authors
 
-- Rachel Houtz
+- Tim Cohen
 - Kara Farnsworth
+- Rachel Houtz
 - Markus Luty
 
